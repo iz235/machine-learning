@@ -13,5 +13,8 @@ An exploratory data analysis and modeling project focused on medical device data
 ### 3. [Natural Language Processing (NLP)](./NLP/README.md)
 NLP techniques applied to various problems, including recommendation systems. Features a comprehensive final project on NLP recommendations.
 
+### 4. [Rain Prediction (Prédiction de Pluie)](./Prediction_Pluie/README.md)
+A machine learning project focused on predicting rainfall using historical weather data. Includes a detailed final report and Jupyter notebook for data modeling.
+
 ---
 *Created by [Izadine] (iz235)*
