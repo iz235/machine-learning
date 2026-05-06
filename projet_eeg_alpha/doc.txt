@@ -1,0 +1,16 @@
+Requirements.txt:
+
+Pourquoi ? Ce fichier est la "liste de courses" de notre projet. Il dit à Python exactement quelles bibliothèques nous avons besoin pour ce projet.
+
+numpy & pandas : Pour manipuler nos données (les tableaux de chiffres).
+
+scipy : Essentiel pour le traitement du signal (le filtrage de nos ondes EEG).
+
+scikit-learn (sklearn) : La boîte à outils de Machine Learning (pour l'Étape 6).
+
+matplotlib & seaborn : Pour créer nos graphiques (Objectifs 1 et 2).
+
+jupyterlab : Pour l'environnement de travail interactif (nos notebooks).
+
+
+
